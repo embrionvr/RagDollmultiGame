@@ -103,4 +103,6 @@ public class RagdollController : MonoBehaviour
         return Physics.Raycast(_rb.position, Vector3.down, 1f, _groundLayer);
     }
 
+    // agregar ataque:
+
 }
